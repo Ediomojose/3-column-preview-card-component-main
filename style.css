@@ -13,7 +13,7 @@ body{
 }
 
 main{
-    margin: auto;
+    margin: 4rem auto;
     padding: auto;
     display: grid;
     align-content: center;
